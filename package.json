@@ -1,0 +1,16 @@
+{
+  "name": "crypto-currency-comparison",
+  "version": "1.0.0",
+  "description": "Crypto currency comparison",
+  "main": "index.js",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  }
+  ,
+  "author": "aassou.abdelilah@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^2.6.11"
+  }
+}
